@@ -1,22 +1,8 @@
-<img width="576" height="1024" alt="image" src="https://github.com/user-attachments/assets/0fa3f423-67eb-4b52-afc3-37541209a255" />
-
 # Hi there, I'm Ivan Cardoso 👋 🤖
 
-/ __ \ () |  |                    ()
-
-| |  | | _  | |   _ __   __ _  _ __    _   ___   ___  _ __
-
-| |  | || | |  | | ' \ / ` || ' \  | | / _ \ / _ | '|
-
-| |_| || | | || | | | (| || | | | | ||  _/|  /| |
-
-_/ || ||| ||_, ||| || || _| _|||
-
-/ |
-
-|/
-
-
+<p align="center">
+  <img width="380" alt="Jhin Banner" src="https://github.com/user-attachments/assets/0fa3f423-67eb-4b52-afc3-37541209a255" style="border-radius: 8px;" />
+</p>
 
 
 ### 🚀 Front-End Specialist (6+ yrs) | Aspiring AI Engineer
