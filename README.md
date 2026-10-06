@@ -76,4 +76,3 @@ Here are my key open-source projects focused on AI integration and experiments:
 
 - 💼 **LinkedIn:** [linkedin.com/in/ivancardoso](https://www.linkedin.com/in/ivancardoso) *(Atualize com o link real do seu LinkedIn)*[cite: 5]
 - ✉️ **Email:** [ivancardoso1991@gmail.com](mailto:ivancardoso1991@gmail.com)[cite: 5]
-- 📍 **Location:** Curitiba, Brazil[cite: 5]
