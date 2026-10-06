@@ -1,10 +1,5 @@
 # Hi there, I'm Ivan Cardoso 👋 🤖
 
-<p align="center">
-  <img width="380" alt="Jhin Banner" src="https://github.com/user-attachments/assets/0fa3f423-67eb-4b52-afc3-37541209a255" style="border-radius: 8px;" />
-</p>
-
-
 ### 🚀 Front-End Specialist (6+ yrs) | Aspiring AI Engineer
 
 I am a Senior Front-End Developer with **over 6 years of experience** building scalable web applications using **React.js, Next.js, Vue.js, and TypeScript**[cite: 5]. Currently, I am expanding my expertise towards **AI Engineering**, leveraging AI-assisted development tools like **Cursor** and building intelligent web applications[cite: 5].
