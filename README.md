@@ -23,7 +23,7 @@ Here are my key open-source projects focused on AI integration and experiments:
 ### 🛠️ Tech Stack & Skills
 
 **AI & Modern Dev Tools**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-111827?style=for-the-badge&logo=openai&logoColor=white)
 ![LLMs Integrations](https://img.shields.io/badge/LLM_Integrations-00A67E?style=for-the-badge&logo=openai&logoColor=white)
